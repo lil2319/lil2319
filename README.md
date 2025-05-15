@@ -9,12 +9,15 @@ My journey into tech didn’t start with a classroom — it started with curiosi
 I’m currently learning full-stack development through a bootcamp and building passion projects along the way — from a reading log app for book lovers like me, to a stitch counter for fellow crafters. Every project teaches me something new, and I’m always chasing that "a-ha!" moment that comes with making ideas real.
 
 📬 Contact Me
+
 I'd love to connect with other devs, creatives, or anyone building something cool. Don’t be shy!
 
 📧 Email: [lawsonlindsey36@yahoo.com]
+
 💼 LinkedIn: [www.linkedin.com/in/lindseylawson23]
 
 🛠 Tech Stack
+
 Here’s what I’ve worked with so far, through bootcamp and self-study:
 
 Languages
@@ -52,12 +55,17 @@ REST APIs
 Docker
 
 🤍 Hobbies
+
 When I’m not coding, you’ll probably find me:
 
 📚 Reading fantasy and romance
+
 🧶 Crocheting little characters and cozy gifts
+
 📸 Playing with photography and chasing the perfect shot
+
 🎵 Listening to a good moody playlist
+
 🐱 Hanging out with my cat, Charlie
 
 Thanks for visiting my corner of the internet — I’m just getting started, and I can’t wait to see where this journey goes. 🚀
