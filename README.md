@@ -1,4 +1,5 @@
 🌟 About Me
+
 Hi there! I’m Lindsey I'm a beginner software developer with a big imagination, a love of learning, and a soft spot for building apps that make life a little more fun (and a lot more organized).
 
 Before diving into tech, I spent years working in veterinary medicine — caring for animals, connecting with pet parents, and mastering the art of staying calm in chaos. It taught me how to problem-solve under pressure, communicate with empathy, and keep learning every single day — all skills that have carried over beautifully into coding.
